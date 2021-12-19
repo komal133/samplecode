@@ -16,4 +16,15 @@ llll
 aaaa
 ssss
 
+<<<<<<< HEAD
 this is changed by dev 1.....&&&&
+=======
+mmmmm
+uuuuu
+ggggg
+ddddd
+hhhhh
+aaaaa
+
+this change is made by dev 3
+>>>>>>> 8eaf7fcd6a1cb4a1e3a7aa74ffdc49c746e695d9
